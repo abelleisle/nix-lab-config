@@ -2,7 +2,7 @@
 
 This is a stub mirror. The full source code for this commit is at:
 
-https://git.bitcicle.com/andy/nix-lab-config/src/commit/6b656e14d19937f4809753ef8adf76dc2e9b947e
+https://git.bitcicle.com/andy/nix-lab-config/src/commit/d5088d806173b0048ffd62e99d04392743fd662a
 
 To browse or clone the full repository, visit:
 
