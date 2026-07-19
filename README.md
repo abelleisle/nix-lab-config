@@ -8,6 +8,7 @@ This is a stub mirror. The source code lives on Forgejo.
 
 | Branch | Commit | Link |
 |--------|--------|------|
+| `nsupdate_refresh` | `dc5399c3a71d` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/dc5399c3a71d5bf6224735ad13f0f86d82146b05) |
 | `service_dns` | `b88fa63c3250` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/b88fa63c32506b1d35834cd789a0c3928c3336cb) |
 | `master` | `b7273b92be3b` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/b7273b92be3bc86338537a06fbe4064d2727b402) |
 | `service_parsing` | `5be08dba26d9` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/5be08dba26d9c0a2a5cb9a488d288eb7d2f4a3b7) |
@@ -18,4 +19,4 @@ This is a stub mirror. The source code lives on Forgejo.
 
 ---
 
-*Last updated: 2026-07-19 07:20:22 UTC*
+*Last updated: 2026-07-19 08:10:32 UTC*
