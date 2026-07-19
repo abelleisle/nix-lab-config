@@ -8,9 +8,7 @@ This is a stub mirror. The source code lives on Forgejo.
 
 | Branch | Commit | Link |
 |--------|--------|------|
-| `nsupdate_refresh` | `b64614679b96` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/b64614679b96a5311d63b3d5af8cc003af208e83) |
-| `service_dns` | `b88fa63c3250` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/b88fa63c32506b1d35834cd789a0c3928c3336cb) |
-| `master` | `b7273b92be3b` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/b7273b92be3bc86338537a06fbe4064d2727b402) |
+| `master` | `b739520ebd74` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/b739520ebd74519223a8dd6f07d4d15adf206003) |
 | `service_parsing` | `5be08dba26d9` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/5be08dba26d9c0a2a5cb9a488d288eb7d2f4a3b7) |
 | `vip_testing` | `c2f658a70114` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/c2f658a7011475afdfb250f383cbc36d61be221e) |
 | `intel_gpu_top` | `d85b361c461b` | [view](https://git.bitcicle.com/andy/nix-lab-config/src/commit/d85b361c461b75ec79c58f88d239f766a97bb3d1) |
@@ -19,4 +17,4 @@ This is a stub mirror. The source code lives on Forgejo.
 
 ---
 
-*Last updated: 2026-07-19 18:30:22 UTC*
+*Last updated: 2026-07-19 19:10:26 UTC*
